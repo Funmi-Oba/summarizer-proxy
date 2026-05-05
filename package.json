@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Proxy server for AI Page Summarizer Chrome Extension",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
